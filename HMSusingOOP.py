@@ -98,7 +98,7 @@ if __name__ == "__main__":
 
     print("---------------------------Health Management System---------------------------")
 
-    Record = ['Amit', 'Sam', 'Suraj']
+    Record = ['Name1', 'Name2', 'Name3']
     print(f"Member are - {Record}")
     for e in range(len(Record)):
         print(
